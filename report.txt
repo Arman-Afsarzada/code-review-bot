@@ -1,0 +1,10 @@
+Found 5 PEP8 issues:
+4       E302 expected 2 blank lines, found 1
+1       W293 blank line contains whitespace
+
+Model Suggestions:
+self.history.pop(0)
+        self.history.pop(0)self.history.pop(0)self.history.pop(0)
+        self.history.pop(0)self.history.pop(0)
+       self.history.pop(0)
+       self.history.pop(0)self.history.pop(0)self.history.pop(0)self
